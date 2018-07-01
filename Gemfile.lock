@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    emoji_unified (0.1.0)
+    emoju (0.1.0)
 
 GEM
   remote: https://rubygems.org/
@@ -14,7 +14,7 @@ PLATFORMS
 
 DEPENDENCIES
   bundler (~> 1.16)
-  emoji_unified!
+  emoju!
   minitest (~> 5.0)
   rake (~> 10.0)
 
