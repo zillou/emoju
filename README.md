@@ -1,5 +1,7 @@
 # Emoju
 
+[![Build Status](https://travis-ci.org/zillou/emoju.svg?branch=master)](https://travis-ci.org/zillou/emoju)
+
 Softbank, docomo, google encoded emoji to unicode emoji
 
 ## Installation
